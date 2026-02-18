@@ -21,14 +21,13 @@ Each patch file in `patches/series` has a corresponding test file:
 - `sagemaker-ui-dark-theme.test.ts` - Validates sagemaker-ui-dark-theme.patch
 - `sagemaker-ui-post-startup.test.ts` - Validates sagemaker-ui-post-startup.patch
 - `sagemaker-extension-smus-support.test.ts` - Validates sagemaker-extension-smus-support.patch
-- `sagemaker-extension-cb-notifications.test.ts` - Validates sagemaker-extension-cb-notification.patch
 - `post-startup-notifications.test.ts` - Validates post-startup-notifications.patch
 - `sagemaker-extensions-sync.test.ts` - Validates sagemaker-extensions-sync.patch
 - `custom-extensions-marketplace.test.ts` - Validates custom-extensions-marketplace.diff patch
 - `signature-verification.test.ts` - Validates signature-verification.diff patch
 - `display-language.test.ts` - Validates display-language.patch
 
-**Total: 21 test files covering all patches in the series**
+**Total: 20 test files covering all patches in the series**
 
 ## Running Tests
 
